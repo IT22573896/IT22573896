@@ -1,4 +1,6 @@
-<img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<div align="center">
+  <img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+I'm+Janindu+Chamod!+👽;+Software+Engineer+🦞;+FullStack+Web+Developer+👨‍💻;+UI/UX+Designer+🎨;" />
@@ -13,11 +15,10 @@
    &nbsp;&nbsp;
 </div><br>
 
-🌍 &nbsp; I'm live in Galle, Sri Lanka <br>
-✉️ &nbsp; You can contact me at janiduchamod25@gmail.com | janiduchamod2001425@gmail.com <br>
+🌍 &nbsp; Galle, Sri Lanka <br>
 📞 &nbsp; Mobile : +94 70 483 0006 <br>
 📧 &nbsp; Work mail : janinduchamod200125@gmail.com <br>
-🧠 &nbsp; I'm learning Mobile Application Development. <br>
+🧠 &nbsp; I'm learning Artificial Intelligence & Machine Learning <br>
 ⚡ &nbsp; I am Video Game lover and Artist. 🎮 🖌 <br><br>
 
 
