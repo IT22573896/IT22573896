@@ -11,7 +11,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-    <img alt="coding-life" width="420" height="230" style="border-radius:15px;" src="https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg">
+    <img alt="coding-life" width="420" height="230" style="border-radius:15px;" src="https://upload.wikimedia.org/wikipedia/en/a/a6/SLIIT_Logo_Crest.png">
    &nbsp;&nbsp;
 </div><br>
 
