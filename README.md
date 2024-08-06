@@ -8,10 +8,9 @@
 <h3 align="center"> 👨‍🎓 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate student in SLIIT.</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🚀 About Me: I thrive on turning innovative ideas into functional and visually appealing digital experiences. With a keen eye for design and a solid grasp of software engineering principles, I embark on every project with a commitment to excellence. 
 <div align="center">
     <img alt="coding-life" width="420" height="230" style="border-radius:15px;" src="https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg">
-    <img alt="coding-life" width="420" height="230" style="border-radius:15px;" src="https://c4.wallpaperflare.com/wallpaper/207/88/1022/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg"> &nbsp;&nbsp;
+   &nbsp;&nbsp;
 </div><br>
 
 🌍 &nbsp; I'm live in Galle, Sri Lanka <br>
