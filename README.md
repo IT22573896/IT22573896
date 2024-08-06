@@ -11,7 +11,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-    <img alt="coding-life" width="420" height="230" style="border-radius:15px;" src="https://upload.wikimedia.org/wikipedia/en/a/a6/SLIIT_Logo_Crest.png">
+    <img alt="coding-life" width="auto" height="auto" style="border-radius:15px;" src="https://upload.wikimedia.org/wikipedia/en/a/a6/SLIIT_Logo_Crest.png">
    &nbsp;&nbsp;
 </div><br>
 
