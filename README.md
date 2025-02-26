@@ -1,79 +1,51 @@
 <div align="center">
-  <img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+  <img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450px">
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+I'm+Janindu+Chamod!+👽;+Software+Engineer+🦞;+FullStack+Web+Developer+👨‍💻;+UI/UX+Designer+🎨;" />
-</h1>
-     ========================================================================================
+<div align="center">
+ <h3>🫱🏻‍🫲🏻 Connect with me</h3>
+</div>  
+<p align="center"> 
+  <a href="https://github.com/IT22573896"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/janinduchamod"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"></a>
+  <a href="mailto:it22573896@my.sliit.lk"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<h3 align="center"> 👨‍🎓 A passionate Full-Stack Web Developer and Designer with a strong foundation as an undergraduate student in SLIIT.</h3>
--------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🔭 I’m currently working on **full-stack development projects at Boron Corporation**.  
+- 🌱 I’m currently learning **modern web technologies, cloud technologies, and scalable software architectures**.  
+- 👯 I’m looking to collaborate on **open-source projects, web applications, and innovative tech solutions**.  
+- 💬 Ask me about **React, Node.js, MongoDB, and full-stack development**.  
+- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/)
+- 😄 Nickname: **Scorpio** 
+- ⚡ Fun fact: **I love gaming and digital art—reimagining designs in modern ways!**  
 
 <div align="center">
-    <img alt="coding-life" width="auto" height="auto" style="border-radius:15px;" src="https://upload.wikimedia.org/wikipedia/en/a/a6/SLIIT_Logo_Crest.png">
-   &nbsp;&nbsp;
-</div><br>
+ <h3>🤖 Skills
+</div>  
+<p align="center">  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,python,c,cpp,kotlin,dart" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,angular,vite,next" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,php" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase,appwrite" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,reactnative,expo,androidstudio" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,daisyui,tailwindcss" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,postman,api" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,webstorm,eclipse,androidstudio" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,anaconda,pytorch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" />
+</p>
 
-🌍 &nbsp; Galle, Sri Lanka <br>
-📞 &nbsp; Mobile : +94 70 483 0006 <br>
-📧 &nbsp; Work mail : janinduchamod200125@gmail.com <br>
-🧠 &nbsp; I'm learning Artificial Intelligence & Machine Learning <br>
-⚡ &nbsp; I am Video Game lover and Artist. 🎮 🖌 <br><br>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IT22573896&theme=algolia&show_icons=true&locale=en&layout=compact" alt="IT22573896" /></p>
 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IT22573896&theme=algolia&show_icons=true&locale=en" alt="IT22573896" /></p>
 
-### # Programming Languages
-
-<img align="left" alt="Java" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />         
-<img align="left" alt="C++" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="C" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="Kotlin" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Php" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><br><br>
-
-### # Frameworks
-
-<img align="left" alt="Angular" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="React" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /><br><br>
-
-### # Web Technologies
-
-<img align="left" alt="HTML" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="NodeJS" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MongoDB" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img align="left" alt="NextJs" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Tailwind" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Tailwind" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br><br>    
-
-### # Other Technologies
-  
-<img align="left" alt="Git" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Figma" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Android Studio" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Bootstrap" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Canva" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img align="left" alt="Canva" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-<img align="left" alt="Canva" width="35px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
-          
-          
-                    
-<br>
-<br> 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Janinduchamod2001425" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img align="left" alt="C" width="35px" style="padding-right:8px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/janindu-chamod-1025492a1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janinduchamod2001425&theme=algolia&show_icons=true&locale=en&layout=compact" alt="janinduchamod2001425" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janinduchamod2001425&theme=algolia&show_icons=true&locale=en" alt="janinduchamod2001425" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janinduchamod2001425&&theme=algolia" alt="janinduchamod2001425" /></p>
-<br>
-Thanks for visiting! Let's code the future together. 🚀✨
-
-<br />
-
+  <br>
+  Thanks for visiting! Let's code the future together. 🚀✨
+</div>  
