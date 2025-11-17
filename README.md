@@ -13,13 +13,18 @@
   <a href="mailto:it22573896@my.sliit.lk"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-- 🔭 I’m currently working on **full-stack development projects at Boron Corporation**.  
-- 🌱 I’m currently learning **modern web technologies, cloud technologies, and scalable software architectures**.  
-- 👯 I’m looking to collaborate on **open-source projects, web applications, and innovative tech solutions**.  
-- 💬 Ask me about **React, Node.js, MongoDB, and full-stack development**.  
-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/)
-- 😄 Nickname: **Scorpio** 
-- ⚡ Fun fact: **I love gaming and digital art—reimagining designs in modern ways!**  
+<div align="center">
+
+ 🔭 I’m currently working on **full-stack development projects at Boron Corporation**.  
+ 🌱 I’m currently learning **modern web technologies, cloud technologies, and scalable software architectures**.  
+ 👯 I’m looking to collaborate on **open-source projects, web applications, and innovative tech solutions**.  
+ 💬 Ask me about **React, Node.js, MongoDB, and full-stack development**.  
+ 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/)  
+ 😄 Nickname: **Scorpio**  
+ ⚡ Fun fact: **I love gaming and digital art—reimagining designs in modern ways!**  
+
+</div>
+  
 
 <div align="center">
  <h3>🤖 Skills
@@ -42,6 +47,8 @@
 </p>
 
 <div align="center">
+ <h3>GitHub Streak
+  
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IT22573896&theme=algolia&show_icons=true&locale=en&layout=compact" alt="IT22573896" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IT22573896&theme=algolia&show_icons=true&locale=en" alt="IT22573896" /></p>
