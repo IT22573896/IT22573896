@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450px">
+  <img alt="coding-life" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="450px">
 </div>
 
 <div align="center">
